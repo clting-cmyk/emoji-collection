@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <line x1="200" y1="80" x2="200" y2="220" stroke="#495057" stroke-width="2"/>
+  <line x1="120" y1="150" x2="280" y2="150" stroke="#495057" stroke-width="2"/>
+  <circle cx="200" cy="80" r="6" fill="#495057"/>
+  <rect x="110" y="145" width="20" height="10" fill="#6c757d"/>
+  <rect x="270" y="145" width="20" height="10" fill="#6c757d"/>
+  <text x="200" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#495057">⚖️</text>
+  <text x="120" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6c757d">氣候正義</text>
+  <text x="280" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6c757d">公平</text>
+  <circle cx="120" cy="210" r="3" fill="#007bff"/>
+  <circle cx="280" cy="210" r="3" fill="#007bff"/>
+  <line x1="120" y1="210" x2="280" y2="210" stroke="#007bff" stroke-width="1" stroke-dasharray="4,2"/>
+</svg>

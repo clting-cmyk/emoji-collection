@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#e0f7fa"/>
+  <path d="M120,180 C140,160 170,150 190,155 C210,160 230,170 245,165 C260,160 275,165 285,175 C295,185 290,200 280,210 C270,220 250,225 235,220 C220,215 205,220 195,215 C185,210 170,205 155,210 C140,215 130,205 120,180 Z" fill="#4fc3f7"/>
+  <rect y="220" width="400" height="80" fill="#2979ff"/>
+  <circle cx="320" cy="60" r="12" fill="#ff9100"/>
+  <path d="M80,220 L80,230 L100,230 L100,220 Z" fill="#b2ebf2"/>
+  <path d="M110,225 L110,235 L130,235 L130,225 Z" fill="#b2ebf2"/>
+  <path d="M140,230 L140,240 L160,240 L160,230 Z" fill="#b2ebf2"/>
+  <path d="M170,235 L170,245 L190,245 L190,235 Z" fill="#b2ebf2"/>
+  <path d="M200,240 L200,250 L220,250 L220,240 Z" fill="#b2ebf2"/>
+  <path d="M230,245 L230,255 L250,255 L250,245 Z" fill="#b2ebf2"/>
+  <path d="M260,250 L260,260 L280,260 L280,250 Z" fill="#b2ebf2"/>
+  <path d="M290,255 L290,265 L310,265 L310,255 Z" fill="#b2ebf2"/>
+  <path d="M320,260 L320,270 L340,270 L340,260 Z" fill="#b2ebf2"/>
+  <path d="M350,265 L350,275 L370,275 L370,265 Z" fill="#b2ebf2"/>
+  <text x="200" y="290" font-family="sans-serif" font-size="14" fill="#01579b" text-anchor="middle">Taiwan Island</text>
+</svg>
