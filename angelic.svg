@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="20" fill="#fdf6e3"/>
+  <circle cx="100" cy="100" r="80" fill="#ffd54f" stroke="#f9a825" stroke-width="2"/>
+  <circle cx="70" cy="80" r="7" fill="#333"/><circle cx="130" cy="80" r="7" fill="#333"/><circle cx="68" cy="76" r="3" fill="#fff"/><circle cx="128" cy="76" r="3" fill="#fff"/>
+  <path d="M65 125 Q100 150 135 125" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="100" cy="40" rx="20" ry="8" fill="none" stroke="#ffd54f" stroke-width="2.5"/><ellipse cx="85" cy="42" rx="12" ry="6" fill="none" stroke="#ffd54f" stroke-width="2.5"/><ellipse cx="115" cy="42" rx="12" ry="6" fill="none" stroke="#ffd54f" stroke-width="2.5"/>
+  <text x="100" y="190" text-anchor="middle" font-size="10" fill="#666" font-family="sans-serif">天使</text>
+</svg>

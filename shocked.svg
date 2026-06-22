@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="20" fill="#fdf6e3"/>
+  <circle cx="100" cy="100" r="80" fill="#ffd54f" stroke="#f9a825" stroke-width="2"/>
+  <circle cx="65" cy="70" r="12" fill="#fff" stroke="#333" stroke-width="2"/><circle cx="135" cy="70" r="12" fill="#fff" stroke="#333" stroke-width="2"/><circle cx="65" cy="70" r="5" fill="#333"/><circle cx="135" cy="70" r="5" fill="#333"/>
+  <ellipse cx="100" cy="135" rx="10" ry="15" fill="#333"/><ellipse cx="100" cy="135" rx="5" ry="8" fill="#e57373"/>
+  <line x1="50" y1="85" x2="55" y2="80" stroke="#333" stroke-width="2"/><line x1="150" y1="85" x2="145" y2="80" stroke="#333" stroke-width="2"/>
+  <text x="100" y="190" text-anchor="middle" font-size="10" fill="#666" font-family="sans-serif">震驚</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="20" fill="#fdf6e3"/>
+  <circle cx="100" cy="100" r="80" fill="#ffd54f" stroke="#f9a825" stroke-width="2"/>
+  <circle cx="70" cy="80" r="8" fill="#333"/><circle cx="130" cy="80" r="8" fill="#333"/><circle cx="68" cy="76" r="3" fill="#fff"/><circle cx="128" cy="76" r="3" fill="#fff"/>
+  <path d="M80 125 Q100 155 120 125" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="100" cy="135" rx="10" ry="6" fill="#e57373"/>
+  <text x="100" y="190" text-anchor="middle" font-size="10" fill="#666" font-family="sans-serif">調皮</text>
+</svg>

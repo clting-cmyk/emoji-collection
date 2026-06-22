@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="20" fill="#fdf6e3"/>
+  <circle cx="100" cy="100" r="80" fill="#ffd54f" stroke="#f9a825" stroke-width="2"/>
+  <path d="M58 75 Q70 60 82 75" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/><path d="M118 75 Q130 60 142 75" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="100" cy="125" rx="25" ry="18" fill="#333"/><ellipse cx="100" cy="125" rx="18" ry="13" fill="#e57373"/><path d="M85 115 Q100 110 115 115" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <circle cx="45" cy="70" r="3" fill="#ffd54f" opacity="0.8"/><circle cx="155" cy="65" r="2" fill="#ffd54f" opacity="0.8"/>
+  <text x="100" y="190" text-anchor="middle" font-size="10" fill="#666" font-family="sans-serif">大笑</text>
+</svg>

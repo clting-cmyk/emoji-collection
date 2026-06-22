@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="20" fill="#fdf6e3"/>
+  <circle cx="100" cy="100" r="80" fill="#ffd54f" stroke="#f9a825" stroke-width="2"/>
+  <circle cx="70" cy="80" r="7" fill="#333"/><circle cx="130" cy="80" r="7" fill="#333"/><circle cx="68" cy="77" r="2.5" fill="#fff"/><circle cx="128" cy="77" r="2.5" fill="#fff"/><circle cx="70" cy="80" r="9" fill="none" stroke="#333" stroke-width="1" stroke-dasharray="2,2"/><circle cx="130" cy="80" r="9" fill="none" stroke="#333" stroke-width="1" stroke-dasharray="2,2"/>
+  <path d="M65 125 Q80 135 100 125 Q120 115 135 125" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40 50 Q50 40 60 50" fill="none" stroke="#e57373" stroke-width="2"/><path d="M140 45 Q150 35 160 45" fill="none" stroke="#e57373" stroke-width="2"/>
+  <text x="100" y="190" text-anchor="middle" font-size="10" fill="#666" font-family="sans-serif">焦慮</text>
+</svg>

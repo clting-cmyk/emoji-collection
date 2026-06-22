@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="20" fill="#fdf6e3"/>
+  <circle cx="100" cy="100" r="80" fill="#ffd54f" stroke="#f9a825" stroke-width="2"/>
+  <path d="M60 80 Q70 65 80 80 Q90 65 100 80" fill="#e57373" stroke="none"/><path d="M100 80 Q110 65 120 80 Q130 65 140 80" fill="#e57373" stroke="none"/>
+  <path d="M70 125 Q100 155 130 125" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="40" cy="50" r="6" fill="#ef9a9a" opacity="0.5"/><circle cx="160" cy="45" r="4" fill="#ef9a9a" opacity="0.5"/><circle cx="45" cy="40" r="3" fill="#ef9a9a" opacity="0.3"/>
+  <text x="100" y="190" text-anchor="middle" font-size="10" fill="#666" font-family="sans-serif">戀愛</text>
+</svg>
